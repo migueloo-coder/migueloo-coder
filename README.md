@@ -2,12 +2,12 @@
     <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.png" alt="github 3d icon" height="200">
 </div>
 <div align=center>
-    <a href=""><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi!+I%27m+miguel+Pinzon;Open-source+enthusiast;Artificial+Intelligence+Student;I+use+Arch+btw%22%20alt=%22Typing%20SVG" /></a>
+    <a href=""><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi!+I%27m+miguel+Pinzon;Open-source+enthusiast;Artificial+Intelligence+Student;I+use+Arch+btw%22%20alt=%22Typing%20SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Hello%20Word!+I%27m+Miguel+Pinzon;Software+Engineer;Site+Reliability+Engineer+-DevOps;I+Project+Manager;Cloud+Solutions" /></a>
 </div>
 
 
 
-## ♑ About me
+## 🚀 About me
 
 - I'm currently a sophomore at FPT University located at Hanoi, Vietnam. I'm into the Julia programming language and on the way to study the foundations of machine learning with this language.
 
@@ -102,16 +102,16 @@
 ## 📈 Github Profile Stats
 
 <p align="center">
-    <a href="https://github.com/hungpham3112">
-        <img height="180em" src="https://streak-stats.demolab.com?user=hungpham3112&theme=tokyonight&hide_border=true&border_radius="/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hungpham3112&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungpham3112&hide_border=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
+    <a href="https://github.com/migueloo-coder">
+        <img height="180em" src="https://streak-stats.demolab.com?user=migueloo-coder&theme=tokyonight&hide_border=true&border_radius="/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=migueloo-coder&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueloo-coder&hide_border=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
     </a>
 </p>
 
 <br/>
 
-## 🏆 Github Profile Trophy
+<!--## 🏆 Github Profile Trophy
 
 <p align="left">
     <a href="https://github.com/hungpham3112">
@@ -119,14 +119,14 @@
         src="https://github-profile-trophy.vercel.app/?username=hungpham3112&theme=tokyonight&no-frame=true&margin-h=15&row=3&title=MultiLanguage,Joined2020,Issues,PullRequest,Commits,Repositories"/>
 </a>
 </p>
-
+-->
 ## 📬 Contact me
 
 <p align=center>
-    <a href="https://github.com/hungpham3112" target="_blank">
+    <a href="https://github.com/migueloo-coder" target="_blank">
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.svg" alt=github style="margin-bottom: 5px;" />
     </a>
-    <a href="https://linkedin.com/in/hungpham3112" target="_blank">
+    <a href="https://linkedin.com/in/migueloo-coder" target="_blank">
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
     </a>
     <a href="https://www.facebook.com/phamhung311202" target="_blank">
