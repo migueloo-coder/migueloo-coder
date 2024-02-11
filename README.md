@@ -1,8 +1,9 @@
 <div align=center>
     <img src="https://raw.githubusercontent.com/migueloo-coder/migueloo-coder/main/resources/Devops.png" alt="DevOps 3d icon" height="200">
 </div>
+<br/>
 <div align=center>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C7FF7&random=false&width=435&lines=Hello+Word!%2C+I+am+Miguel+Pinzon;Software+Engineer;Site+Reliability+Engineer+-+DevOps;Cloud+Architect+Solutions" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C7FF7&random=false&width=435&lines=>+Hello+Word!%2C+I+am+Miguel+Pinzon;>+Software+Engineer;>+Site+Reliability+Engineer+-+DevOps;>+Cloud+Architect+Solutions" alt="Typing SVG" /></a>
 </div>
 
 
@@ -130,13 +131,13 @@
     <a href="https://github.com/migueloo-coder" target="_blank">
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.svg" alt=github style="margin-bottom: 5px;" />
     </a>
-    <a href="https://linkedin.com/in/migueloo-coder" target="_blank">
+    <a href="https://www.linkedin.com/in/miguel-pinzon-553a361a7/" target="_blank">
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
     </a>
-    <a href="https://www.facebook.com/phamhung311202" target="_blank">
+    <a href="https://www.facebook.com/profile.php?id=100017332264141" target="_blank">
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/facebook.svg" alt=facebook style="margin-bottom: 5px;" />
     </a>
-    <a href="mailto:phamhung20022015@gmail.com" target="_blank">
+    <a href="mailto:migue.pinzon.caro22@gmail.com" target="_blank">
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt=gmail style="margin-bottom: 5px;" />
     </a>
 </p>
