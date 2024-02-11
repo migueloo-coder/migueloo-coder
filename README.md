@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.png" alt="github 3d icon" height="200">
+    <img src="https://raw.githubusercontent.com/migueloo-coder/migueloo-coder/main/resources/Devops.png" alt="DevOps 3d icon" height="200">
 </div>
 <div align=center>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C7FF7&random=false&width=435&lines=Hello+Word!!%2C+I+am+Miguel+A+Pinzon+C;Software+Engineer;Site+Reliability+Engineer+-+DevOps;Cloud+Architect+Solutions" alt="Typing SVG" /></a>
@@ -9,9 +9,11 @@
 
 ## 🚀 About me
 
-- I'm currently a sophomore at FPT University located at Hanoi, Vietnam. I'm into the Julia programming language and on the way to study the foundations of machine learning with this language.
+- I'm currently a student of Software and Computer Engineering at the University of Portucalense in Portugal, my emphasis and area of performance is project management from the planning to the delivery of the project.
 
-- On the daily basis, I try to sharpen my knowledge by reading books, technical blogs, references and scientific documents. Interested in machine learning, deep learning, and all the computer science terminology, especially applications of command line interface (CLI).
+- I work in the Backend Development and Operations area, focusing on software project management. I have expertise in the implementation of cloud solutions, which allows me to contribute significantly to the development and optimisation of advanced technological infrastructures. My work ranges from conceptualisation to effective implementation of systems in cloud environments, ensuring scalability, security and efficiency of services. 
+
+- I am committed to delivering innovative solutions that meet business needs and continuously improve operational processes.
 
 <br/>
 
@@ -23,9 +25,9 @@
       <br>
       <br>
         <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></a>
-        <a href="https://pop.system76.com/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Pop%21_OS_Icon.svg" /></a>
-        <a href="https://ubuntu.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></a>
-        <a href="https://archlinux.org/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg" /></a>
+        <a href="https://pop.system76.com/" target="_blank"><img width="30px" src="https://raw.githubusercontent.com/migueloo-coder/migueloo-coder/main/resources/Devops.png" /></a>
+        <a href="https://ubuntu.com/" target="_blank"><img width="30px" src="https://en.m.wikipedia.org/wiki/File:UbuntuCoF.svg" /></a>
+        <a href="https://archlinux.org/" target="_blank"><img width="30px" src="https://www.pngwing.com/en/free-png-xsene" /></a>
     </kbd>
       <br>
     <kbd>
