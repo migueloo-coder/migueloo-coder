@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.png" alt="github 3d icon" height="200">
 </div>
 <div align=center>
-    <a href=""><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi!+I%27m+miguel+Pinzon;Open-source+enthusiast;Artificial+Intelligence+Student;I+use+Arch+btw%22%20alt=%22Typing%20SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Hello%20Word!+I%27m+Miguel+Pinzon;Software+Engineer;Site+Reliability+Engineer+-DevOps;I+Project+Manager;Cloud+Solutions" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C7FF7&random=false&width=435&lines=Hello+Word!!%2C+I+am+Miguel+A+Pinzon+C;Software+Engineer;Site+Reliability+Engineer+-+DevOps;Cloud+Architect+Solutions" alt="Typing SVG" /></a>
 </div>
 
 
