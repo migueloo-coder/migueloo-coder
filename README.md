@@ -28,7 +28,6 @@
         <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></a>
         <a href="https://pop.system76.com/" target="_blank"><img width="70px" src="https://raw.githubusercontent.com/migueloo-coder/migueloo-coder/main/resources/debian.png" /></a>
         <a href="https://ubuntu.com/" target="_blank"><img width="50px" src="https://raw.githubusercontent.com/migueloo-coder/migueloo-coder/main/resources/ubuntu.png" /></a>
-        <a href="https://archlinux.org/" target="_blank"><img width="50px" src="https://raw.githubusercontent.com/migueloo-coder/migueloo-coder/main/resources/mint.png" /></a>
     </kbd>
       <br>
     <kbd>
@@ -38,8 +37,6 @@
         <a href="java" target="_blank"><img width="30px" src="https://raw.githubusercontent.com/migueloo-coder/migueloo-coder/main/resources/java.png" /></a>
         <a href="https://www.python.org/" target="_blank"><img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
         <a href="https://www.rust-lang.org/" target="_blank"><img width="50px" src="https://raw.githubusercontent.com/migueloo-coder/migueloo-coder/main/resources/c++.png" /></a>
-        <a href="https://www.cprogramming.com/" target="_blank"><img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
-        <a href="https://www.lua.org/" target="_blank"><img width="120px" src="https://raw.githubusercontent.com/migueloo-coder/migueloo-coder/main/resources/go.png" /></a>
         <a href="https://html.com/html5/" target="_blank"><img width="50px" src="https://raw.githubusercontent.com/migueloo-coder/migueloo-coder/main/resources/javascript.png" /> </a> 
     </kbd>
       <br>
@@ -55,7 +52,6 @@
       <kbd>Frameworks</kbd>
       <br>
       <br>
-        <a href="https://www.djangoproject.com/" target="_blank"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></a>
         <a href="https://www.djangoproject.com/" target="_blank"><img width="60px" src="https://raw.githubusercontent.com/migueloo-coder/migueloo-coder/main/resources/react.png" /></a>
         <a href="https://www.djangoproject.com/" target="_blank"><img width="80px" src="https://raw.githubusercontent.com/migueloo-coder/migueloo-coder/main/resources/nodejs.png" /></a>
         <a href="https://www.djangoproject.com/" target="_blank"><img width="90px" src="https://raw.githubusercontent.com/migueloo-coder/migueloo-coder/main/resources/spring.png" /></a>
@@ -95,7 +91,6 @@
       <br>
       <br>
       <a href="https://www.vim.org/" target="_blank"><img width="50px" src="https://raw.githubusercontent.com/migueloo-coder/migueloo-coder/main/resources/eclipse.png" /></a>
-      <a href="https://plutojl.org/" target="_blank"><img width="50px" src="https://juliacomputing.gallerycdn.vsassets.io/extensions/juliacomputing/pluto-vscode/0.1.2/1649235051665/Microsoft.VisualStudio.Services.Icons.Default" /></a>
       <a href="https://jupyter.org/" target="_blank"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></a>
       <a href="https://code.visualstudio.com/" target="_blank"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
       <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" /></a>
