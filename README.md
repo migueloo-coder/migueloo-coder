@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="https://raw.githubusercontent.com/migueloo-coder/migueloo-coder/main/resources/Devops.png" alt="DevOps 3d icon" height="200">
+    <img src="https://raw.githubusercontent.com/migueloo-coder/migueloo-coder/main/resources/FAC52C27-BC13-44E3-8A09-779E8E9E27B9.JPEG" alt="DevOps 3d icon" height="200">
 </div>
 <br/>
 <div align=center>
