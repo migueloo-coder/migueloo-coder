@@ -10,11 +10,15 @@
 
 ## 🚀 About me
 
-- I'm currently a student of Software and Computer Engineering at the University of Portucalense in Portugal, my emphasis and area of performance is project management from the planning to the delivery of the project.
+🎓 Final-year Systems Engineering Student at EAN University, Bogotá, Colombia.
 
-- I work in the Backend Development and Operations area, focusing on software project management. I have expertise in the implementation of cloud solutions, which allows me to contribute significantly to the development and optimisation of advanced technological infrastructures. My work ranges from conceptualisation to effective implementation of systems in cloud environments, ensuring scalability, security and efficiency of services. 
+🚀 Passionate about technological project management, from planning to delivery, ensuring effective results.
 
-- I am committed to delivering innovative solutions that meet business needs and continuously improve operational processes.
+💻 Backend Developer with experience in implementing cloud solutions, optimizing technological infrastructures, and developing scalable and secure systems.
+
+🌐 Focused on delivering innovative solutions to enhance operational processes and meet business needs.
+
+📍 Currently based in Bogotá, Colombia.
 
 <br/>
 
